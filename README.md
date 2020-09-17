@@ -5,6 +5,8 @@ Tetris game with extended selection of tiles written in HTML, JavaScript
 
 # Features:
 * Tetris Game with 36 different shape of tiles
+* Extra-wide game field
+* Each shape with different color
 * Points counter
 
 # Buttons:
